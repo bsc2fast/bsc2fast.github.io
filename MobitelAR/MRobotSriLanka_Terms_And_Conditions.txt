@@ -1,0 +1,6 @@
+Terms and Conditions
+
+* MRobotSriLanka will never collect any personal information from users.
+* It will only access your public profile info including email address.
+* It will not send any emails to your mail address.
+* MRobotSriLanka will tweet for you when you share from the app.
